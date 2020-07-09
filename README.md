@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 
 
 ## Download Data
-1. Using Medical Masks Dataset (https://www.kaggle.com/vtech6/medical-masks-dataset), comes from Eden Social Welfare Foundation which contains the pictures of people wearing medical masks along with the labels containing their descriptions
+1. Using Anime Faces Dataset (https://www.kaggle.com/soumikrakshit/anime-faces) consisting of 21551 anime faces.
 
 2. Download images and labels, transforming .xml to a .csv file, with header row 'filename', 'label', 'xmax', 'xmin', 'ymax', 'ymin'.
    For example:
