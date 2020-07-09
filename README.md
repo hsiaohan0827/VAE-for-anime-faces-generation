@@ -70,3 +70,4 @@ class TrainConfig:
 ```
 python3 main.py
 ```
+![interpolate image](https://github.com/hsiaohan0827/VAE-for-anime-faces-generation/blob/master/interpolate-323-267-KL-1.png)
